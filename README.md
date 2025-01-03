@@ -41,13 +41,8 @@ Run the vendor:publish command to publish the package config, translations and m
 
 `php artisan migrate:refresh --seed`
 
-### Step 3: Update your database
 
-Run your migrations:
-
-`php artisan migrate`
-
-### Step 4: Run
+### Step 3: Run
 
 `php artisan serve`
 
